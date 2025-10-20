@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this document, please cite it as below."
+authors:
+- family-names: "Rombaldoni"
+  given-names: "Francesco"
+title: "Binary_code_for_kids_it_en"
+version: 1.0.0
+date-released: 2025-10-20
+url: "https://github.com/R0mb0/Binary_code_for_kids_it_en"
