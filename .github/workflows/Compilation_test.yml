@@ -13,9 +13,9 @@ jobs:
         uses: xu-cheng/latex-action@v4
         with:
           working_directory: Italian
-          root_file: code_week.tex
+          root_file: Code_week.tex
       - name: Compile english
         uses: xu-cheng/latex-action@v4
         with:
           working_directory: English
-          root_file: code_week.tex
+          root_file: Code_week.tex
