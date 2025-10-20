@@ -15,6 +15,18 @@
   
  </summary>
 
+![0001](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0001.png?raw=true)
+![0002](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0002.png?raw=true)
+![0003](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0003.png?raw=true)
+![0004](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0004.png?raw=true)
+![0005](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0005.png?raw=true)
+![0006](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0006.png?raw=true)
+![0007](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0007.png?raw=true)
+![0008](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0008.png?raw=true)
+![0009](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0009.png?raw=true)
+![0010](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0010.png?raw=true)
+![0011](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0011.png?raw=true)
+![0012](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/Italian/0012.png?raw=true)
  
 </details>
 
@@ -25,5 +37,17 @@
   
  </summary>
 
+![0001](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0001.png?raw=true)
+![0002](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0002.png?raw=true)
+![0003](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0003.png?raw=true)
+![0004](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0004.png?raw=true)
+![0005](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0005.png?raw=true)
+![0006](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0006.png?raw=true)
+![0007](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0007.png?raw=true)
+![0008](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0008.png?raw=true)
+![0009](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0009.png?raw=true)
+![0010](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0010.png?raw=true)
+![0011](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0011.png?raw=true)
+![0012](https://github.com/R0mb0/Binary_code_for_kids_it_en/blob/main/ReadMe_Imgs/English/0012.png?raw=true)
  
 </details>
