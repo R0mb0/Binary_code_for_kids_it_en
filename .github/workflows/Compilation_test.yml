@@ -1,0 +1,21 @@
+name: Compilation_Test
+on:
+  push:
+    branches:
+      - 'main'
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download repo files
+        uses: actions/checkout@v5.0.0
+      - name: Compile italian
+        uses: xu-cheng/latex-action@v4
+        with:
+          working_directory: Italian
+          root_file: code_week.tex
+      - name: Compile english
+        uses: xu-cheng/latex-action@v4
+        with:
+          working_directory: English
+          root_file: code_week.tex
